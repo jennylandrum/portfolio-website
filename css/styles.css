@@ -211,6 +211,11 @@ button:focus,
   text-align: center;
 }
 
+.work,
+.contact {
+  text-align: center;
+}
+
 table {
   border-collapse: collapse;
   margin: 0 auto;
